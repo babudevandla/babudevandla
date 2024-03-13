@@ -10,7 +10,7 @@
 
 - 🏢 I'm been Software Developer for over 10 years and I'm always learning and always improving!
 
-- 🏢 My goals are to help people achieve their dreams and make websites and software that people find useful.
+- 🌐 My goals are to help people achieve their dreams and make websites and software that people find useful.
 - 💬 Ask me about my experience with Java, Spring Boot, Spring Security, Spring Data JPA, Restful API's, Microservices, Docker, Kubernetes, Apache Kafka, MongoDB & Web Development .
 - 📩 Feel free to reach me at devandlababu.sg@gmail.com.
 
