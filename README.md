@@ -14,10 +14,10 @@
 - 💬 Ask me about my experience with Java, Spring Boot, Spring Security, Restful API's, Microservices, Docker, Kubernetes & Web development.
 
 
-### Connect with Me :
+## Connect with Me :
 
 <a href="https://www.linkedin.com/in/babu-devandla-192257152/" target="_blank"><img src="https://img.shields.io/badge/-Lakshman Babu%20Devandla-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-### 🛠 &nbsp;Tech Stack
+## 🛠 &nbsp;Tech Stack
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java)&nbsp;
 ![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=Spring)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL)&nbsp;
@@ -36,5 +36,6 @@
 ![GITLab](https://img.shields.io/badge/logo-gitlab-blue?logo=gitlab)
 
 
-🙋‍♂️ Support
+## 🙋‍♂️ Support
+
 💙 If you like this project, give it a ⭐ and share it with friends!
