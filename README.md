@@ -12,6 +12,7 @@
 
 - 🏢 My goals are to help people achieve their dreams and make websites and software that people find useful.
 - 💬 Ask me about my experience with Java, Spring Boot, Spring Security, Spring Data JPA, Restful API's, Microservices, Docker, Kubernetes, Apache Kafka, MongoDB & Web Development .
+- 📩 Feel free to reach me at devandlababu.sg@gmail.com.
 
 
 ### Connect with Me :
@@ -51,6 +52,8 @@
 ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-05122A?style=flat&logo=Elasticsearch)&nbsp;
 ![Cucumber](https://img.shields.io/badge/-Cucumber-05122A?style=flat&logo=Cucumber)&nbsp;
 ![JUnit](https://img.shields.io/badge/-Junit-05122A?style=flat&logo=Junit)&nbsp;
+![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-05122A?style=flat&logo=Azure%20DevOps)&nbsp;
+![Microsoft Azure](https://img.shields.io/badge/-microsoft%20azure-05122A?style=flat&logo=microsoft%20azure)&nbsp;
 
 ## 🙋‍♂️ Support
 
