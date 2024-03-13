@@ -50,7 +50,7 @@
 ![Redis](https://img.shields.io/badge/-Hazelcast-05122A?style=flat&logo=Hazelcast)&nbsp;
 ![Redis](https://img.shields.io/badge/-Elasticsearch-05122A?style=flat&logo=Elasticsearch)&nbsp;
 ![Cucumber BDD](https://img.shields.io/badge/-Cucumber-05122A?style=flat&logo=Cucumber)&nbsp;
-![Cucumber BDD](https://img.shields.io/badge/-Cucumber-05122A?style=flat&logo=Cucumber)&nbsp;
+![JUnit TDD](https://img.shields.io/badge/-Junit-05122A?style=flat&logo=Junit)&nbsp;
 
 ## 🙋‍♂️ Support
 
