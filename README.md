@@ -8,7 +8,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F73D9C&random=false&width=435&lines=Technical+Lead+Engineer;Always+learning+new+things" alt="Typing SVG" /></a>
 </p> 
 
-- 🏢 I'm been Software Developer Engineer for over 10 years and I'm always learning and always improving!
+- 🏢 I'm been Software Developer for over 10 years and I'm always learning and always improving!
 
 - 🏢 My goals are to help people achieve their dreams and make websites and software that people find useful.
 - 💬 Ask me about my experience with Java, Spring Boot, Spring Security, Restful API's, Microservices, Docker, Kubernetes & Web development.
@@ -55,3 +55,9 @@
 ## 🙋‍♂️ Support
 
 💙 If you like this project, give it a ⭐ and share it with friends!
+
+## 🤗 Contributing
+
+Contributions are welcome! Feel free to open an issue or submit a pull request if you have a way to improve this project.
+
+Make sure your request is meaningful and you have tested the app locally before submitting a pull request.
