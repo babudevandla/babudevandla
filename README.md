@@ -71,6 +71,6 @@ Make sure your request is meaningful and you have tested the app locally before 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=babudevandla&theme=react&hide_border=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=babudevandla&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=babudevandla&show_icons=true&count_private=true&hide_border=true&title_color=44FF00&icon_color=44FF00&text_color=c9d1d9&bg_color=0d1117)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=babudevandla&theme=react&show_icons=true&hide_border=true&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=babudevandla&layout=compact&hide_border=true&title_color=44FF00&text_color=c9d1d9&bg_color=0d1117)
