@@ -8,7 +8,9 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F73D9C&random=false&width=435&lines=Technical+Lead+Engineer;Always+learning+new+things" alt="Typing SVG" /></a>
 </p> 
 
-- 🏢 I'm a Technical Lead Engineer
+- 🏢 I'm been Technical Lead Engineer for over 10 years and I'm always learning and always improving!
+
+- 🏢 My goals are to help people achieve their dreams and make websites and software that people find useful.
 - 💬 Ask me about my experience with Java, Spring Boot, Spring Security, Restful API's, Microservices, Docker, Kubernetes & Web development.
 
 
@@ -32,3 +34,7 @@
 ![IntelliJ IDE](https://img.shields.io/badge/IntelliJ-05122A?style=flat&logo=jetbrains&logoColor=007ACC)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![GITLab](https://img.shields.io/badge/logo-gitlab-blue?logo=gitlab)
+
+
+🙋‍♂️ Support
+💙 If you like this project, give it a ⭐ and share it with friends!
