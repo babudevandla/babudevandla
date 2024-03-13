@@ -82,3 +82,8 @@ Make sure your request is meaningful and you have tested the app locally before 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=babudevandla&layout=compact&hide_border=true&title_color=44FF00&text_color=c9d1d9&bg_color=0d1117)
 
 ![Babudevandla's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=babudevandla&theme=tokyo-night)
+
+<div>
+  <img height="160" width="440" alt="Babu Devandla's github summary stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=babudevandla" />
+  <img height="160" width="212" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=babudevandla&theme=default&utcOffset=8" />
+</div>
