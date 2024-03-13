@@ -5,7 +5,7 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Senior%20Software%20Engineer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F73D9C&random=false&width=435&lines=Technical+Lead+Engineer;Always+learning+new+things" alt="Typing SVG" /></a>
 </p> 
 
 - 🏢 I'm a Technical Lead Engineer
@@ -28,7 +28,7 @@
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![React.js](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![React.js](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 ![IntelliJ IDE](https://img.shields.io/badge/IntelliJ-05122A?style=flat&logo=jetbrains&logoColor=007ACC)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![GITLab](https://img.shields.io/badge/logo-gitlab-blue?logo=gitlab)&nbsp;
+![GITLab](https://img.shields.io/badge/logo-gitlab-blue?logo=gitlab)
