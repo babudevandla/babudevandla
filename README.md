@@ -8,9 +8,8 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Exo+2&size=24&pause=1000&color=CD4794&center=true&vCenter=true&random=true&width=435&lines=Technical+Lead+Engineer;Always+learning+new+things!" alt="Typing SVG" /></a>
 </p> 
 
-<br/>
-	![Visitor Count](https://komarev.com/ghpvc/?username=babudevandla&label=Profile%20views&color=green&style=plastic)
-<br/>
+<h3 align="left"><a href="#" target="_blank" rel="noreferrer"><img src="https://komarev.com/ghpvc/?username=babudevandla&label=Profile%20views&color=green&style=plastic" alt="babudevandla" /></a></h3>
+
 - 🏢 I'm been Software Developer for over 10 years and I'm always learning and always improving!
 
 - 🌐 My goals are to help people achieve their dreams and make websites and software that people find useful.
