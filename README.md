@@ -11,6 +11,7 @@
 - 🏢 I'm been Software Developer for over 10 years and I'm always learning and always improving!
 
 - 🌐 My goals are to help people achieve their dreams and make websites and software that people find useful.
+- ⚡ Passion for learning languages and tech. Valued team player, known for collaboration and group effectiveness.
 - 💬 Ask me about my experience with Java, Spring Boot, Spring Security, Spring Data JPA, Restful API's, Microservices, Docker, Kubernetes, Apache Kafka, MongoDB & Web Development .
 - 📩 Feel free to reach me at devandlababu.sg@gmail.com.
 
@@ -64,3 +65,12 @@
 Contributions are welcome! Feel free to open an issue or submit a pull request if you have a way to improve this project.
 
 Make sure your request is meaningful and you have tested the app locally before submitting a pull request.
+
+
+## 🔥 &nbsp; My Stats
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=babudevandla&theme=github-dark-blue&exclude_days=Sun%2CSat)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=babudevandla&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=babudevandla&theme=react&show_icons=true&hide_border=true&layout=compact)
