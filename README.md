@@ -9,9 +9,9 @@
 </p> 
 
 <h3 align="left"><a href="#" target="_blank" rel="noreferrer">
-<img src="https://komarev.com/ghpvc/?username=babudevandla&label=Profile%20views&color=green&style=plastic" alt="babudevandla" /></a>
-![My GitHub stars](https://img.shields.io/github/stars/babudevandla)
-![My GitHub show](https://api.visitorbadge.io/api/visitors?path=https://github.com/babudevandla&style=flat)
+	<img src="https://komarev.com/ghpvc/?username=babudevandla&label=Profile%20views&color=green&style=plastic" alt="babudevandla" /></a>
+	<img src="https://img.shields.io/github/stars/babudevandla" alt="babudevandla" /></a>
+	<img src="https://api.visitorbadge.io/api/visitors?path=https://github.com/babudevandla&style=flat" alt="babudevandla" /></a>
 </h3>
 
 - 🏢 I'm been Software Developer for over 10 years and I'm always learning and always improving!
