@@ -43,14 +43,14 @@
 ![Thymeleaf](https://img.shields.io/badge/-Thymeleaf-05122A?style=flat&logo=Thymeleaf)
 ![IntelliJ IDE](https://img.shields.io/badge/IntelliJ-05122A?style=flat&logo=jetbrains&logoColor=007ACC)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![GITLab](https://img.shields.io/badge/logo-gitlab-blue?logo=gitlab)&nbsp;
+![GITLab](https://img.shields.io/badge/-gitlab-05122A?style=flat&logo=gitlab)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
 ![Apache Tomcat](https://img.shields.io/badge/-Apache%20Tomcat-05122A?style=flat&logo=apache%20tomcat)&nbsp;
 ![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=Redis)&nbsp;
-![Redis](https://img.shields.io/badge/-Hazelcast-05122A?style=flat&logo=Hazelcast)&nbsp;
-![Redis](https://img.shields.io/badge/-Elasticsearch-05122A?style=flat&logo=Elasticsearch)&nbsp;
-![Cucumber BDD](https://img.shields.io/badge/-Cucumber-05122A?style=flat&logo=Cucumber)&nbsp;
-![JUnit TDD](https://img.shields.io/badge/-Junit-05122A?style=flat&logo=Junit)&nbsp;
+![Hazelcast](https://img.shields.io/badge/-Hazelcast-05122A?style=flat&logo=Hazelcast)&nbsp;
+![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-05122A?style=flat&logo=Elasticsearch)&nbsp;
+![Cucumber](https://img.shields.io/badge/-Cucumber-05122A?style=flat&logo=Cucumber)&nbsp;
+![JUnit](https://img.shields.io/badge/-Junit-05122A?style=flat&logo=Junit)&nbsp;
 
 ## 🙋‍♂️ Support
 
