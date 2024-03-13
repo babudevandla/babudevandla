@@ -18,7 +18,7 @@
 
 - 🌐 My goals are to help people achieve their dreams and make websites and software that people find useful.
 - ⚡ Passion for learning languages and tech. Valued team player, known for collaboration and group effectiveness.
-- 💬 Ask me about my experience with Java, Spring Boot, Spring Security, Spring Data JPA, Restful API's, Microservices, Docker, Kubernetes, Apache Kafka, MongoDB & Web Development .
+- 💬 Ask me about my experience with <strong>Java, Spring Boot, Spring Security, Spring Data JPA, Restful API's, Microservices, Docker, Kubernetes, Apache Kafka, MongoDB & Web Development </strong>.
 - 📩 Feel free to reach me at devandlababu.sg@gmail.com.
 
 
