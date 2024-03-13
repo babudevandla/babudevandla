@@ -69,7 +69,7 @@ Make sure your request is meaningful and you have tested the app locally before 
 
 ## 🔥 &nbsp; My Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=babudevandla&theme=github-dark-blue&exclude_days=Sun%2CSat)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=babudevandla&theme=react&hide_border=true)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=babudevandla&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true)
 
