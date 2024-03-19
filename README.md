@@ -41,6 +41,7 @@
 ![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-05122A?style=flat&logo=Apache%20Kafka)&nbsp;
 ![Swagger](https://img.shields.io/badge/-Swagger%20-05122A?style=flat&logo=Swagger)&nbsp;
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-05122A?style=flat&logo=Google%20Cloud)&nbsp;
+![Apache Maven](https://img.shields.io/badge/-Apache%20Maven-05122A?style=flat&logo=Apache%20maven)&nbsp;
 ![Gradle](https://img.shields.io/badge/-Gradle-05122A?style=flat&logo=Gradle)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
